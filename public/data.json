@@ -1,0 +1,149 @@
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "id": 1,
+    "title": "Website Homepage Redesign",
+    "description": "Update the main landing page layout and content for a modern look and better conversion.",
+    "customer": "Alpha Corp",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025/09/01"
+  },
+  {
+    "id": 2,
+    "title": "Database Migration to Cloud",
+    "description": "Migrate the primary SQL database from on-premise servers to AWS RDS.",
+    "customer": "Beta Solutions",
+    "priority": "Critical",
+    "status": "To Do",
+    "createdAt": "2025/09/05"
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Bug Fixes (iOS)",
+    "description": "Resolve reported issues with push notifications and payment processing on the iOS application.",
+    "customer": "Gamma Tech",
+    "priority": "Medium",
+    "status": "Testing",
+    "createdAt": "2025/09/10"
+  },
+  {
+    "id": 4,
+    "title": "New User Onboarding Flow",
+    "description": "Develop and implement a new, simpler onboarding process for new users.",
+    "customer": "Alpha Corp",
+    "priority": "High",
+    "status": "Complete",
+    "createdAt": "2025/09/15"
+  },
+  {
+    "id": 5,
+    "title": "API Documentation Update",
+    "description": "Review and update all endpoints and examples in the public developer API documentation.",
+    "customer": "Delta Systems",
+    "priority": "Low",
+    "status": "To Do",
+    "createdAt": "2025/09/20"
+  },
+  {
+    "id": 6,
+    "title": "Server Security Patch Deployment",
+    "description": "Apply urgent security patches to all production servers to mitigate recent vulnerabilities.",
+    "customer": "Echo Limited",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025/09/22"
+  },
+  {
+    "id": 7,
+    "title": "Marketing Campaign Asset Creation",
+    "description": "Design and finalize graphics, copy, and videos for the Q4 promotional campaign.",
+    "customer": "Alpha Corp",
+    "priority": "Medium",
+    "status": "Review",
+    "createdAt": "2025/09/25"
+  },
+  {
+    "id": 8,
+    "title": "Integrate Third-Party Payment Gateway",
+    "description": "Connect the e-commerce platform with a new regional payment provider.",
+    "customer": "Foxtrot Retail",
+    "priority": "High",
+    "status": "To Do",
+    "createdAt": "2025/09/26"
+  },
+  {
+    "id": 9,
+    "title": "Internal Reporting Dashboard Upgrade",
+    "description": "Enhance the data visualization and filtering capabilities of the internal analytics dashboard.",
+    "customer": "Gamma Tech",
+    "priority": "Medium",
+    "status": "Complete",
+    "createdAt": "2025/09/28"
+  },
+  {
+    "id": 10,
+    "title": "Refactor Legacy Code Module (User Auth)",
+    "description": "Modernize the outdated user authentication codebase for better performance and maintainability.",
+    "customer": "Hotel Inc.",
+    "priority": "High",
+    "status": "Testing",
+    "createdAt": "2025/10/01"
+  },
+  {
+    "id": 11,
+    "title": "Accessibility (ADA) Compliance Audit",
+    "description": "Conduct a full audit of the website to ensure compliance with ADA standards and guidelines.",
+    "customer": "India Corp",
+    "priority": "Critical",
+    "status": "To Do",
+    "createdAt": "2025/10/04"
+  },
+  {
+    "id": 12,
+    "title": "Customer Feedback Survey Design",
+    "description": "Create and deploy a new NPS (Net Promoter Score) survey to gather customer satisfaction data.",
+    "customer": "Beta Solutions",
+    "priority": "Low",
+    "status": "Review",
+    "createdAt": "2025/10/07"
+  },
+  {
+    "id": 13,
+    "title": "CI/CD Pipeline Optimization",
+    "description": "Streamline the continuous integration and delivery pipeline to reduce build times.",
+    "customer": "Juliett Systems",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025/10/10"
+  },
+  {
+    "id": 14,
+    "title": "Q3 Financial Data Reconciliation",
+    "description": "Verify and reconcile all financial transactions and reporting for the third quarter.",
+    "customer": "Delta Systems",
+    "priority": "HIGH PRIORITY",
+    "status": "Testing",
+    "createdAt": "2025/10/12"
+  }
+ 
+]
+
+
+
+
+
+
+
+
+
